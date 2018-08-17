@@ -36,3 +36,6 @@ Usage:
 	ax.set_aspect('equal')
   plt.show()
   ```
+![example vectorcardiogram trace][example]
+
+[example]: https://github.com/malteehrlen/VectorTrace/blob/master/HK_DEMO%20_PSEUDO_0.png "example vectorcardiogram trace"
